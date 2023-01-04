@@ -1,0 +1,58 @@
+WARNING:file_parse:Row 4 Could not convert : ['MINT', '', '51.23']
+WARNING:file_parse:Row 7 Could not convert : ['PASTE', '', '70.44']
+WARNING:file_parse:Row 4 Could not convert : ['MINT', '', '51.23']
+DEBUG:file_parse:Row 4 : Reason invalid literal for int() with base 10: ''
+WARNING:file_parse:Row 7 Could not convert : ['PASTE', '', '70.44']
+DEBUG:file_parse:Row 7 : Reason invalid literal for int() with base 10: ''
+WARNING:file_parse:Row 4 Could not convert : ['MINT', '', '51.23']
+DEBUG:file_parse:Row 4 : Reason invalid literal for int() with base 10: ''
+WARNING:file_parse:Row 7 Could not convert : ['PASTE', '', '70.44']
+DEBUG:file_parse:Row 7 : Reason invalid literal for int() with base 10: ''
+WARNING:file_parse:Row 4 Could not convert : ['MINT', '', '51.23']
+DEBUG:file_parse:Row 4 : Reason invalid literal for int() with base 10: ''
+WARNING:file_parse:Row 7 Could not convert : ['PASTE', '', '70.44']
+DEBUG:file_parse:Row 7 : Reason invalid literal for int() with base 10: ''
+2022-12-29 14:57:09,571,(filename)-15s,(user)-8s,(message)s
+2022-12-29 14:57:09,572,(filename)-15s,(user)-8s,(message)s
+2022-12-29 14:57:09,572,(filename)-15s,(user)-8s,(message)s
+2022-12-29 14:57:09,572,(filename)-15s,(user)-8s,(message)s
+2022-12-29 14:57:17,960,(filename)-15s,(user)-8s,(message)s
+2022-12-29 14:57:17,961,(filename)-15s,(user)-8s,(message)s
+2022-12-29 14:57:17,961,(filename)-15s,(user)-8s,(message)s
+2022-12-29 14:57:17,961,(filename)-15s,(user)-8s,(message)s
+2022-12-29 15:02:45,636 file_parse.py Row 4 Could not convert : ['MINT', '', '51.23']
+2022-12-29 15:02:45,637 file_parse.py Row 4 : Reason invalid literal for int() with base 10: ''
+2022-12-29 15:02:45,637 file_parse.py Row 7 Could not convert : ['PASTE', '', '70.44']
+2022-12-29 15:02:45,637 file_parse.py Row 7 : Reason invalid literal for int() with base 10: ''
+2022-12-29 15:03:20,343 file_parse.py Row 4 Could not convert : ['MINT', '', '51.23']
+2022-12-29 15:03:20,343 file_parse.py Row 4 : Reason invalid literal for int() with base 10: ''
+2022-12-29 15:03:20,343 file_parse.py Row 7 Could not convert : ['PASTE', '', '70.44']
+2022-12-29 15:03:20,343 file_parse.py Row 7 : Reason invalid literal for int() with base 10: ''
+2022-12-29 15:03:23,403 file_parse.py Row 4 Could not convert : ['MINT', '', '51.23']
+2022-12-29 15:03:23,403 file_parse.py Row 4 : Reason invalid literal for int() with base 10: ''
+2022-12-29 15:03:23,403 file_parse.py Row 7 Could not convert : ['PASTE', '', '70.44']
+2022-12-29 15:03:23,403 file_parse.py Row 7 : Reason invalid literal for int() with base 10: ''
+2022-12-29 15:03:36,461 file_parse.py Row 4 Could not convert : ['MINT', '', '51.23']
+2022-12-29 15:03:36,461 file_parse.py Row 4 : Reason invalid literal for int() with base 10: ''
+2022-12-29 15:03:36,461 file_parse.py Row 7 Could not convert : ['PASTE', '', '70.44']
+2022-12-29 15:03:36,462 file_parse.py Row 7 : Reason invalid literal for int() with base 10: ''
+2022-12-29 15:05:50,228 file_parse.py Row 4 Could not convert : ['MINT', '', '51.23']
+2022-12-29 15:05:50,228 file_parse.py Row 4 : Reason invalid literal for int() with base 10: ''
+2022-12-29 15:05:50,228 file_parse.py Row 7 Could not convert : ['PASTE', '', '70.44']
+2022-12-29 15:05:50,228 file_parse.py Row 7 : Reason invalid literal for int() with base 10: ''
+2022-12-29 15:05:54,965 file_parse.py Row 4 Could not convert : ['MINT', '', '51.23']
+2022-12-29 15:05:54,966 file_parse.py Row 4 : Reason invalid literal for int() with base 10: ''
+2022-12-29 15:05:54,966 file_parse.py Row 7 Could not convert : ['PASTE', '', '70.44']
+2022-12-29 15:05:54,966 file_parse.py Row 7 : Reason invalid literal for int() with base 10: ''
+2022-12-29 15:05:57,167 file_parse.py Row 4 Could not convert : ['MINT', '', '51.23']
+2022-12-29 15:05:57,167 file_parse.py Row 4 : Reason invalid literal for int() with base 10: ''
+2022-12-29 15:05:57,167 file_parse.py Row 7 Could not convert : ['PASTE', '', '70.44']
+2022-12-29 15:05:57,167 file_parse.py Row 7 : Reason invalid literal for int() with base 10: ''
+2022-12-29 15:05:59,228 file_parse.py Row 4 Could not convert : ['MINT', '', '51.23']
+2022-12-29 15:05:59,229 file_parse.py Row 4 : Reason invalid literal for int() with base 10: ''
+2022-12-29 15:05:59,229 file_parse.py Row 7 Could not convert : ['PASTE', '', '70.44']
+2022-12-29 15:05:59,229 file_parse.py Row 7 : Reason invalid literal for int() with base 10: ''
+2022-12-29 15:06:03,830 file_parse.py Row 4 Could not convert : ['MINT', '', '51.23']
+2022-12-29 15:06:03,830 file_parse.py Row 4 : Reason invalid literal for int() with base 10: ''
+2022-12-29 15:06:03,830 file_parse.py Row 7 Could not convert : ['PASTE', '', '70.44']
+2022-12-29 15:06:03,830 file_parse.py Row 7 : Reason invalid literal for int() with base 10: ''
